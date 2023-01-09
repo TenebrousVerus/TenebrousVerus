@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TenebrousVerus
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java programming
+- 🌱 I’m currently learning Java & JavaScript
+- 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me ...
 
 <!---
